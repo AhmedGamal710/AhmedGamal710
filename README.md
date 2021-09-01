@@ -19,7 +19,6 @@
 <img align="left" alt="MongoDB" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1888890291551942128-512.png" />
 <img align="left" alt="SQL" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1265/1265531.svg"/>
 <img align="left" alt=PostgreSQL" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16876668881551942134-512.png"/>              
-<img align="left" alt="GraphQL" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/21299071571548141943-512.png" />
 <img align="left" alt="Python" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/12785093741551942290-512.png" />
 <img align="left" alt="c#" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/358/358879.svg" />
 
