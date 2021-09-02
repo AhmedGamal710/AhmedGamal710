@@ -1,7 +1,6 @@
 <a target="_blank" href="https://aghanem.herokuapp.com"><img width="250" align="right" 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-# Ahmed-Gamal
-
+src="https://media.giphy.com/media/KzKDpvEtLcQeh6gC9z/giphy.gif"></a>
+# Ahmed Gamal
 ### Hi there,
  A software engineer, Full stack developer and a CS student. I enjoy being challenged an engaging with projects I love creativity in design and i have worked on multiple projects using modern technologies and standards.
 
