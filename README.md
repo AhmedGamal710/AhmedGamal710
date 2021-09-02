@@ -1,5 +1,5 @@
 <a target="_blank" href="https://aghanem.herokuapp.com"><img width="250" align="right" src="https://media.giphy.com/media/KzKDpvEtLcQeh6gC9z/giphy.gif"></a>
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 # Ahmed-Gamal
 
 ### Hi there,
