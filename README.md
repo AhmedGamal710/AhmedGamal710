@@ -12,7 +12,7 @@ src="https://media.giphy.com/media/KzKDpvEtLcQeh6gC9z/giphy.gif"></a>
 <img align="left" alt="HTML5" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" />
 <img align="left" alt="CSS3" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" />
 <img align="left" alt="JS" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" />
-<img align="left" alt="Node" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" />
+<!-- <img align="left" alt="Node" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" /> -->
 <img align="left" alt="React" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" />
 <img align="left" alt="Angular" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="MongoDB" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1888890291551942128-512.png" />
