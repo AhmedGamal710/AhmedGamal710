@@ -26,10 +26,10 @@ and many more
 
 ### Connect with me:
 
-<img align="left" alt="Ahmed Ezzat | LinkedIn" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16090541531530099327-512.png" /> https://www.linkedin.com/in/ahmed-gamal-199a161a4/
+<img align="left" alt="LinkedIn" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16090541531530099327-512.png" /> https://www.linkedin.com/in/ahmed-gamal-199a161a4/
 
 
-<img align="left" alt="gmail" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /> ag242938@gmail.com
+<img align="left" alt="gmail" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
                                         
                                         
                                        
