@@ -34,9 +34,9 @@
 
 <br/>
 
-<!-- ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
+## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedGamal710&theme=monokai) -->
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedGamal710&theme=monokai)
 
 
 ##  🤝🏻 &nbsp;Connect with Me
