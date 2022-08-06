@@ -3,9 +3,11 @@
 
 ### 💻 &nbsp;About Me 
 
-- A software engineer, Full stack developer and a CS student. I enjoy being challenged an engaging with projects I love creativity in design and i have worked on multiple projects using modern technologies and standards.
-- 🎓&nbsp;Studying Computer Science at Thebes Academy For Science And Technology.
-
+- Front-end developer that creates and utilizes software solutions 
+with a focus on innovation, efficiency and performance optimization 
+to improve workflow for any organization. I was appointed as a 
+teaching assistant for two semesters at the university, and 
+I qualified twice for the ECPC Problem Solving Contest.
 
 ### 🛠 &nbsp;Some Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> 
 
