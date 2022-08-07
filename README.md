@@ -1,29 +1,23 @@
-### <p><a target="_blank" rel="noopener noreferrer" href="/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></a></p>
-<h2><a class="anchor" aria-hidden="true"></path></svg></a>Hey there! I'm Ahmed Gamal <g-emoji class="g-emoji" alias="man_technologist" fallback src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji></h2>
+# Ahmed Gamal
 
-### 💻 &nbsp;About Me 
-
-- Front-end developer that creates and utilizes software solutions 
+### Hi there 👋,
+I'm Front-end developer that creates and utilizes software solutions 
 with a focus on innovation, efficiency and performance optimization 
 to improve workflow for any organization. I was appointed as a 
 teaching assistant for two semesters at the university, and 
 I qualified twice for the ECPC Problem Solving Contest.
-
-### 🛠 &nbsp;Some Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> 
-
-&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery&logoColor=0769ad)
-  ![Typesript](https://img.shields.io/badge/-typescript%20-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass&logoColor=CD6799)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=dd1b16)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=0769ad)
-  
-   ![C%23](https://img.shields.io/badge/-C%23-333333?style=flat&logo=cSharp&logoColor=9C70D8)
-  ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B&logoColor=fff) And Many More
+<br />
+### Languages and Tools: 
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=JavaScript)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery&logoColor=0769ad)
+![Typesript](https://img.shields.io/badge/-typescript%20-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass&logoColor=CD6799)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=dd1b16)
+![CSharp](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=C%20Sharp)
+![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B&logoColor=fff) 
+And Many More
   
  <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
@@ -46,7 +40,7 @@ I qualified twice for the ECPC Problem Solving Contest.
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-gamal-199a161a4"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100006540690109"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ahmed_gamal710/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jimmy_ag7/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 
  
