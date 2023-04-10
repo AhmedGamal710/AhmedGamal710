@@ -1,7 +1,7 @@
 # Ahmed Gamal
 
 ### Hi there 👋,
-Front-end Web Developer with +1 year of experience in developing websites. looking for a position as a
+I am a Front-end Web Developer with +1 year of experience in developing websites. looking for a position as a
 Junior web developer 'Angular & React Framework' that creates and utilizes software solutions with a focus on 
 innovation, efficiency, and performance optimization to improve workflow for any organization. I was appointed as a 
 teaching assistant for two semesters at the university, and I qualified twice for the ECPC Problem Solving Contest.
@@ -16,7 +16,7 @@ teaching assistant for two semesters at the university, and I qualified twice fo
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=dd1b16)
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=C%20Sharp)
 ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B&logoColor=fff)
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
 And Many More
   
  <p align="center">
