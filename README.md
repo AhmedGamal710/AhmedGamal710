@@ -35,18 +35,15 @@ And Many More
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedGamal710&theme=monokai) -->
 
 
-##  🤝🏻 &nbsp;Connect with Me
+##  🤝🏻 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmed-gamal-199a161a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jimmy" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/ahmed.gamal007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jimmy" height="33" width="40" /></a>
 <a href="https://leetcode.com/Fx_Jimmy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jimmy" height="30" width="40" /></a>
   <a href="https://www.instagram.com/jimmy_ag7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/343562/instagram-social-media-network-communication-interaction-connection.svg" alt="jimmy" height="30" width="40" /></a>
     <a href="https://www.facebook.com/profile.php?id=100006540690109" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="jimmy" height="30" width="40" /></a>
 </p>
-<!--   <a href="https://www.facebook.com/profile.php?id=100006540690109"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jimmy_ag7/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
- -->
 
  
 
