@@ -16,7 +16,7 @@ teaching assistant for two semesters at the university, and I qualified twice fo
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=dd1b16)
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=C%20Sharp)
 ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B&logoColor=fff)
-<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 And Many More
   
  <p align="center">
@@ -44,9 +44,9 @@ And Many More
   <a href="https://www.instagram.com/jimmy_ag7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/343562/instagram-social-media-network-communication-interaction-connection.svg" alt="jimmy" height="30" width="40" /></a>
     <a href="https://www.facebook.com/profile.php?id=100006540690109" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="jimmy" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedGamal710&show_icons=true&theme=dark&locale=en&layout=compact" alt="jimmy" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedGamal710&show_icons=true&theme=dark&locale=en&layout=compact" alt="jimmy" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedGamal710&show_icons=true&theme=dark&locale=en" alt="jimmy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedGamal710&theme=dark" alt="jimmy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedGamal710&theme=dark" alt="jimmy" /></p> -->
  
 
 
