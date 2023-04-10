@@ -1,11 +1,10 @@
 # Ahmed Gamal
 
 ### Hi there 👋,
-I'm Front-end developer that creates and utilizes software solutions 
-with a focus on innovation, efficiency and performance optimization 
-to improve workflow for any organization. I was appointed as a 
-teaching assistant for two semesters at the university, and 
-I qualified twice for the ECPC Problem Solving Contest.
+Front-end Web Developer with +1 year of experience in developing websites. looking for a position as a
+Junior web developer 'Angular & React Framework' that creates and utilizes software solutions with a focus on 
+innovation, efficiency, and performance optimization to improve workflow for any organization. I was appointed as a 
+teaching assistant for two semesters at the university, and I qualified twice for the ECPC Problem Solving Contest.
 <br />
 ### Languages and Tools: 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -16,7 +15,8 @@ I qualified twice for the ECPC Problem Solving Contest.
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass&logoColor=CD6799)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=dd1b16)
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=C%20Sharp)
-![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B&logoColor=fff) 
+![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B&logoColor=fff)
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 And Many More
   
  <p align="center">
