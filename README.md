@@ -35,8 +35,10 @@ And Many More
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedGamal710&theme=monokai) -->
 
 
-##<h3 align="left"> 🤝 Connect with me:</h3>
-
+<h3 align="left"> 🤝 Connect with me:</h3>
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
+ </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-gamal-199a161a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jimmy" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/ahmed.gamal007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jimmy" height="33" width="40" /></a>
