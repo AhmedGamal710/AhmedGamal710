@@ -38,7 +38,8 @@ And Many More
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-gamal-199a161a4"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+ 
+  <a href="https://www.linkedin.com/in/ahmed-gamal-199a161a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gor3a" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100006540690109"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/jimmy_ag7/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
 
