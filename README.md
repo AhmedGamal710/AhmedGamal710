@@ -37,8 +37,8 @@ And Many More
    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
  </p>
 <h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<!-- <p align="center"> -->
+<!-- <p align="left"> -->
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmed-gamal-199a161a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jimmy" height="25" width="40" /></a>
   <a href="https://codeforces.com/profile/ahmed.gamal007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jimmy" height="40" width="40" /></a>
 <a href="https://leetcode.com/Fx_Jimmy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jimmy" height="30" width="40" /></a>
