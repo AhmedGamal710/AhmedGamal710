@@ -10,6 +10,7 @@ teaching assistant for two semesters at the university, and I qualified twice fo
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 ![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=JavaScript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery&logoColor=0769ad)
 ![Typesript](https://img.shields.io/badge/-typescript%20-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass&logoColor=CD6799)
