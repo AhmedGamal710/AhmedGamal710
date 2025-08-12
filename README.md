@@ -6,7 +6,9 @@ My ISTQB® Foundation Certification backs up my understanding of testing framewo
 I’ve worked on diverse systems (Hospitality, Fintech, Banking System, E-learning, Logistics, HR, ERP, e-commerce, mobile apps) and thrive in cross-functional teams. I’m now looking for opportunities—especially remote or international roles—where I can contribute to building robust, user-centered software products.
 
 🧰 Tools: Selenium | Appium | Rest Assured | Postman | C# | SQL | JIRA | TestRail
+<br />
 🌍 Open to: Remote | Full-time | Freelance QC roles
+<br />
 🌱 Actively pursuing: Cypress | ISTQB Advanced | Test Automation Strategy | Testing Leadership
 
 <br />
